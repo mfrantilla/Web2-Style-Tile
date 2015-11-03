@@ -46,9 +46,13 @@
 .pattern-4{
     background: url(../img/wild_flowers.png);
 }
+
+
 /* Imagery */
 
-
+.imagery-1{
+    border: none;
+}
 /* Icons */
 
 
