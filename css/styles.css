@@ -123,6 +123,14 @@ label{
 }
 
 /* Tables */
+
+td{
+   color: #2F6380;
+    border-color: #9BBF4A;
+}
+
+
+/*BUTTONS*/
 .button-a{
     background: #2F6380;
     color: white;
