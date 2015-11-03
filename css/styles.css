@@ -72,8 +72,14 @@
 
 .primaryText p{
    color: #2F6380;
-   line-height: 1.5em;
+   line-height: 1.7em;
     }
+.primaryText p a{
+    color: #9BBF4A;
+    text-decoration: underline;
+    
+    
+}
 
 /* Forms */
 
@@ -93,14 +99,40 @@
 
 /*NAVIGATION*/
 
+.primaryNav ul{
+    background-color: #90A661;
+    padding-top: .5em;
+    padding-bottom: .5em;
 
+}
+
+.primaryNav button{
+    background-color:  #90A661;
+    padding: .5em;
+    border-style: none;
+    color: #FBF4DB;
+    border-radius: 3px;
+}
 .primaryNav li
 {
     
     list-style: none;
     display: inline;
     font-size: 1.5em;
-    color: #FCEFC2;
+    color: #FBF4DB;
     background-color: #90A661;
     
 }
+
+.primaryNav li a{
+    color: #FBF4DB;
+    text-decoration: none;
+    padding-left: .5em;
+    padding-right: .5em;
+   text-
+}
+
+.primaryNav a{
+    color: # #90A661;
+}
+
