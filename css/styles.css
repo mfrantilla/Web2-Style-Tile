@@ -81,6 +81,32 @@
     
 }
 
+
+
+
+
+.secondaryText h2{
+    color: #9BBF4A;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.7em;
+    text-decoration: underline;
+
+}
+
+.secondaryText h3{
+    color: #9BBF4A;
+}
+
+.secondaryText p{
+   color: #2F6380;
+   line-height: 1.7em;
+    }
+.secondaryText p a{
+    color: #9BBF4A;
+    text-decoration: underline;
+    
+    
+}
 /* Forms */
 
 
@@ -89,6 +115,20 @@
 
 /* Cards */
 
+figure{
+    border-radius: 1em;
+    background-color: #2F6380;
+    border: none;
+    color: white;
+    font-family: "Bitter", serif;
+    letter-spacing: .5px;
+    width: 300px;
+}
+
+figure h2{
+    font-family: "Open Sans", sans-serif;
+   
+}
 
 
 /*Text*/
@@ -133,5 +173,45 @@
 
 .primaryNav a{
     color:  #90A661;
+}
+
+
+
+.secondaryNav ul
+{
+    background-color: #9A7752;
+    padding-top: .5em;
+    padding-bottom: .5em;
+
+}
+
+.secondaryNav button{
+    background-color:  #9A7752;
+    padding: .5em;
+    border-style: none;
+    color: #FBF4DB;
+    border-radius: 3px;
+}
+.secondaryNav li
+{
+    
+    list-style: none;
+    display: inline;
+    font-size: 1.5em;
+    color: #FBF4DB;
+    background-color: #9A7752;
+    
+}
+
+.secondaryNav li a{
+    color: #FBF4DB;
+    text-decoration: none;
+    padding-left: .5em;
+    padding-right: .5em;
+}
+
+.secondaryNav a{
+    color:  #9A7752;
+    font-size: 1em;
 }
 
