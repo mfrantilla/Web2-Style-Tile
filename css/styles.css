@@ -132,6 +132,15 @@ label{
     
 }
 
+.button-b{
+    background: #9BBF4A;
+    color: white;
+    padding: 1em;
+    font-family: "Open Sans", sans-serif;
+    border-radius: .3em;
+    
+}
+
 /* Cards */
 
 figure{
