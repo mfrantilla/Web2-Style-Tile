@@ -161,6 +161,9 @@ figure{
     width: 300px;
 }
 
+figcaption{
+    line-height: 1.5em;
+}
 figure h2{
     font-family: "Open Sans", sans-serif;
    
