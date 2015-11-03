@@ -6,7 +6,7 @@
 
 .color-1
 {
-  background-color: #163140;
+  background-color: #2F6380;
   border: none;
 }
 
@@ -58,6 +58,22 @@
 
 /* Typography */
 
+.primaryText h2{
+    color: #9BBF4A;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.7em;
+    text-decoration: underline;
+
+}
+
+.primaryText h3{
+    color: #9BBF4A;
+}
+
+.primaryText p{
+   color: #2F6380;
+   line-height: 1.5em;
+    }
 
 /* Forms */
 
@@ -66,3 +82,25 @@
 
 
 /* Cards */
+
+
+
+/*Text*/
+
+
+
+
+
+/*NAVIGATION*/
+
+
+.primaryNav li
+{
+    
+    list-style: none;
+    display: inline;
+    font-size: 1.5em;
+    color: #FCEFC2;
+    background-color: #90A661;
+    
+}
