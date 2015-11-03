@@ -7,11 +7,45 @@
 .color-1
 {
   background-color: #163140;
-    
+  border: none;
 }
+
+.color-2
+{
+  background-color: #9BBF4A;
+  border: none;
+}
+.color-3
+{
+  background-color: #90A661;
+  border: none;
+}
+.color-4
+{
+  background-color: #9A7752;
+  border: none;
+}
+
+.color-5
+{
+  background-color: #FCEFC2;
+  border: none;
+}
+
 /* Textures or Patterns*/
+.pattern-1{
+    background: url(../img/sativa.png);
+}
 
-
+.pattern-2{
+    background: url(../img/greyzz.png);
+}
+.pattern-3{
+    background: url(../img/pw_maze_white.png);
+}
+.pattern-4{
+    background: url(../img/wild_flowers.png);
+}
 /* Imagery */
 
 
